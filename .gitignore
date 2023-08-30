@@ -1,3 +1,6 @@
-.zsh_sessions/
-.viminfo
 .zsh_history
+.viminfo
+
+.zsh_sessions/*
+.ssh/*
+.vscode/*

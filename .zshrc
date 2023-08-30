@@ -1,3 +1,6 @@
+source $HOME/dotfiles/aliases.sh
+source $HOME/dotfiles/functions.sh
+
 warn_message "Running zshrc...."
 
 # Git branch parser
